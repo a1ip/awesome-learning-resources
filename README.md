@@ -1,9 +1,8 @@
-# Awesome Resources RoadMap 
-
-> [Preview on the web](https://nicedoc.io/lauragift21/awesome-learning-resources)
-
+# Awesome Learning Resources 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/lauragift21/awesome-learning-resources) ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
+
+[Preview on the web](https://nicedoc.io/lauragift21/awesome-learning-resources)
 
 
 ## Table of Contents
@@ -14,6 +13,7 @@
 - [APEX](#apex)
 - [Bootstrap](#bootstrap)
 - [C#](#c)
+- [Career](#career)
 - [CSS](#css)
 - [Computer Vision](#computer-vision)
 - [Data Science](#data-science)
@@ -21,6 +21,7 @@
 - [Developer Blog](#developer-blog)
 - [Developer Stories](#developer-stories)
 - [Django](#django)
+- [Elixir](#elixir)
 - [Flask](#flask)
 - [Flutter](#flutter)
 - [Git and GitHub](#git-and-github)
@@ -29,6 +30,7 @@
 - [Hugo](#hugo)
 - [InfoSec](#infosec)
 - [JavaScript](#javascript)
+- [Kotlin](#kotlin)
 - [Machine Learning](#machine-learning)
 - [Markdown](#markdown)
 - [NodeJS](#nodejs)
@@ -59,6 +61,7 @@
 - [Martin Fowler's website](https://martinfowler.com/)
 - [Understanding the Agile methodology](https://linchpinseo.com/the-agile-method/)
 - [Agile ceremonies](https://www.atlassian.com/agile/scrum/ceremonies)
+- [Agile user stories](https://zepel.io/agile/user-stories/)
 
 ## Android
 
@@ -115,6 +118,9 @@
 - [Zetcode](http://zetcode.com/lang/csharp/)
 - [Tim Corey](https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw)
 
+## Career
+- [Career Paths in Tech](https://online.maryville.edu/online-bachelors-degrees/management-information-systems/careers/)
+
 ## CSS
 
 - [Marksheet.io](https://marksheet.io/)
@@ -140,6 +146,7 @@
 - [CSS Testing - QuirksMode.org](https://www.quirksmode.org/css/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [CSS Diner](https://flukeout.github.io/)
+- [Pure CSS Loaders](https://loading.io/css/)
 
 ## Computer Vision
 
@@ -205,6 +212,14 @@
 - [Official Django Tutorials](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
 - [Classy Class-Based Views](https://ccbv.co.uk/)
 - [How To Tango With Django 1.7](https://www.tangowithdjango.com/book17/)
+
+## Elixir
+
+- [Elixir School](https://elixirschool.com/)
+- [Learn Elixir in Y minutes](https://learnxinyminutes.com/docs/elixir)
+- [Mocks and Explicit Contracts](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/)
+- [Elixir Forum](https://elixirforum.com/)
+- [Joy of Elixir](https://joyofelixir.com/toc.html)
 
 ## Flutter
 
@@ -303,6 +318,15 @@
 - [Mozilla's JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [JavaScript for Cats](http://jsforcats.com/)
 - [Beginner JavaScript by Wes Bos](https://beginnerjavascript.com/)
+
+## Kotlin
+
+- [Kotlin Coding Puzzles](https://github.com/igorwojda/kotlin-coding-puzzle) Set of programming challenges thats helps to improve whiteboard coding and problem-solving skills.
+- [Kotlin by Reddit](https://www.reddit.com/r/Kotlin/)
+- [Kotlin Academy](https://blog.kotlin-academy.com/)
+- [Kotlin by Hackr.io](https://hackr.io/tutorials/learn-kotlin)
+- [Kotlin for Android](http://antonioleiva.com/kotlin/)
+- [Programming Kotlin](https://www.packtpub.com/application-development/programming-kotlin)
 
 ## Machine Learning
 
@@ -451,6 +475,7 @@
 - [React Handbook](https://www.flaviocopes.com/page/react-handbook/)
 - [React Enlightenment](https://www.reactenlightenment.com)
 - [React Hooks in Action](https://www.manning.com/books/react-hooks-in-action)
+- [Develop Live Project on React & Spring Boot with Payment Integration & BarCode Scanner](https://www.manning.com/liveproject/online-booking-systems-for-a-salon-and-day-spa-using-spring-boot-and-reactjs?a_aid=muthuishere&a_bid=4f5b6535)
 
 ## React Native
 
