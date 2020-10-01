@@ -28,6 +28,7 @@
 - [Golang](#golang)
 - [GraphQL](#graphql)
 - [Hugo](#hugo)
+- [Hacking](#hacking)
 - [InfoSec](#infosec)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
@@ -274,6 +275,10 @@
 
 - [Hugo in Action](https://www.manning.com/books/hugo-in-action)
 
+## Hacking
+
+- [Awesome Hacking](https://github.com/NetanMangal/Awesome-Hacking)
+
 ## InfoSec
 
 - [awesome-infosec](https://github.com/onlurking/awesome-infosec)
@@ -330,6 +335,8 @@
 - [Kotlin by Hackr.io](https://hackr.io/tutorials/learn-kotlin)
 - [Kotlin for Android](http://antonioleiva.com/kotlin/)
 - [Programming Kotlin](https://www.packtpub.com/application-development/programming-kotlin)
+- [Kotlin bootcamp](https://developer.android.com/courses/kotlin-bootcamp/overview#lesson_1_get_started)
+
 
 ## Machine Learning
 
