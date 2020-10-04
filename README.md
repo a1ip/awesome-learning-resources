@@ -11,6 +11,7 @@
 - [Android](#android)
 - [Angular](#angular)
 - [APEX](#apex)
+- [BASH](#bash)
 - [Bootstrap](#bootstrap)
 - [C#](#c)
 - [Career](#career)
@@ -102,6 +103,14 @@
 - [Joel Kallman's Blog](https://joelkallman.blogspot.com/)
 - [Oracle APEX Website](https://apex.oracle.com/)
 
+## BASH
+
+- [Bash Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
+- [Bash Programming](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+- [Shell Scripting MIT](https://missing.csail.mit.edu/2020/shell-tools/)
+- [Shell Scripting Project-Based](https://www.udemy.com/course/linux-shell-scripting-projects/)
+- [Practice Bash](https://www.hackerrank.com/domains/shell)
+
 ## BOOTSTRAP
 
 - [W3Schools](https://www.w3schools.com/bootstrap4/)
@@ -166,6 +175,9 @@
 - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2019/01/learning-path-data-scientist-machine-learning-2019/)
 - [Alison](https://alison.com/courses/data-science)
 - [Automate the boring stuff with Python](https://automatetheboringstuff.com)
+- [Sololearn](https://www.sololearn.com/Course/data-science/)
+- [FreeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/)
+
 
 ## Deep Learning
 
@@ -263,6 +275,7 @@
 - [Golang Tutorials](https://golangtutorials.blogspot.com/2011/05/table-of-contents.html)
 - [Learn Go in Y minutes](https://learnxinyminutes.com/docs/go/)
 - [In-depth and Illustrated Go Tutorials](https://blog.learngoprogramming.com)
+- [Basic Middleware in Go](https://medium.com/@budimanokky93/basic-middleware-in-golang-9536faa41874)
 
 ## GraphQL
 
@@ -623,6 +636,8 @@
 - [Vue Mastery - Multiple Free Classes](https://www.vuemastery.com/)
 - [Laravel Cast - Learn Vue 2 Step by Step](https://laracasts.com/series/learn-vue-2-step-by-step)
 - [Vue Cheatsheet](https://marozed.ma/vue-cheatsheet/)
+- [Vue School](https://vueschool.io/)
+- [Vue Curated](https://curated.vuejs.org/)
 
 ## Women in Tech
 
