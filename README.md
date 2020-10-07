@@ -57,6 +57,7 @@
 - [Voice](#voice)
 - [Vue](#vue)
 - [Women in Tech](#women-in-tech)
+- [XML](#xml)
 
 ## Agile
 
@@ -344,6 +345,7 @@
 - [Mozilla's JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [JavaScript for Cats](http://jsforcats.com/)
 - [Beginner JavaScript by Wes Bos](https://beginnerjavascript.com/)
+- [The Modern JavaScript Tutorial](https://javascript.info/)
 
 ## Kotlin
 
@@ -364,6 +366,7 @@
 - [Topal](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
 - [MonkeyLearn](https://monkeylearn.com/blog/gentle-guide-to-machine-learning/)
 - [An Introduction to Statistical Learning with Applications in R](https://www-bcf.usc.edu/~gareth/ISL/)
+- [Machine learning mastery](https://machinelearningmastery.com/blog/)
 - [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 
 ## Malware Analysis
@@ -649,3 +652,6 @@
 - [Tech Ladies](https://www.hiretechladies.com/)
 - [Women TechMakers](https://www.womentechmakers.com/)
 - [Ladybug Podcast - Women in Tech](https://ladybug.dev/)
+
+## XML
+- [W3](https://www.w3.org/XML)
